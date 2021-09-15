@@ -1,0 +1,12 @@
+#h1 {
+  font-family: "Verdana", sans-serif;
+  font-size: 50px;
+}
+body {
+  background-color: rgb(238, 187, 130);
+  text-align: center;
+}
+.list {
+  font-family: "Brush Script MT", cursive;
+  font-size: 25px;
+}
